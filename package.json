@@ -10,6 +10,18 @@
     "categories": [
         "Snippets"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zhaoze1211/react-code-snippet.git"
+    },
+    "keywords": [
+		"vscode",
+		"snippets",
+		"react",
+        "redux",
+        "ant design"
+	],
+    "icon": "images/react-redux.jpg",
     "contributes": {
         "snippets": [
             {
@@ -21,9 +33,9 @@
                 "path": "./snippets/snippets.json"
             },
             {
-				"language": "typescript",
-				"path": "./snippets/snippets.json"
-			},
+                "language": "typescript",
+                "path": "./snippets/snippets.json"
+            },
             {
                 "language": "less",
                 "path": "./snippets/style.json"
