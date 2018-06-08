@@ -1,0 +1,7 @@
+{
+    "rui-button-666": {
+        "prefix": "rui-button-666",
+        "body": ["<Button>${1:按钮}</Button>"],
+        "description": "测试代码片段-按钮"
+    }
+}
