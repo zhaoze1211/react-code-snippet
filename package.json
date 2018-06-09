@@ -2,7 +2,7 @@
     "name": "react-code-snippet",
     "displayName": "",
     "description": "react 代码段",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "zhaoze",
     "engines": {
         "vscode": "^1.24.0"
