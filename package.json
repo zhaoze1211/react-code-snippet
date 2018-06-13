@@ -1,8 +1,8 @@
 {
-    "name": "react-code-snippet",
+    "name": "react-antd-snippet",
     "displayName": "",
     "description": "react 代码段",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "zhaoze",
     "engines": {
         "vscode": "^1.24.0"
@@ -18,10 +18,10 @@
 		"vscode",
 		"snippets",
 		"react",
-        "redux",
+        "antd",
         "ant design"
 	],
-    "icon": "images/react-redux.jpg",
+    "icon": "images/logo.png",
     "contributes": {
         "snippets": [
             {
