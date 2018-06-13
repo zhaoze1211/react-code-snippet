@@ -1,5 +1,5 @@
 {
-    "name": "react-antd-snippet",
+    "name": "react-code-snippet",
     "displayName": "",
     "description": "react 代码段",
     "version": "0.0.3",
@@ -21,7 +21,7 @@
         "antd",
         "ant design"
 	],
-    "icon": "images/logo.png",
+    "icon": "images/react-logo.png",
     "contributes": {
         "snippets": [
             {
